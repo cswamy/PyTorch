@@ -1,11 +1,9 @@
-from pathlib import Path
-
 """
 Contains pytorch utility functions:
 1. save_model saves model state_dict
 2. load_model loads a saved model's state_dict
 """
-
+from pathlib import Path
 import torch
 import torchvision
 
