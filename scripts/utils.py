@@ -1,3 +1,5 @@
+from pathlib import Path
+
 """
 Contains pytorch utility functions:
 1. save_model saves model state_dict
