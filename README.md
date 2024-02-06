@@ -1,1 +1,1 @@
-Notebooks for simple language model fine-tuning.
+Notebooks for simple fine-tunes of LLM
